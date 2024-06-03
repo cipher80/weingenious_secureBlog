@@ -1,0 +1,32 @@
+2024-06-02T12:13:12.781Z - GET /auth/register - {"username":"sandeepTiwari","email":"sandeep22@gmail.com","passowrd":"12345"}
+2024-06-02T12:18:49.745Z - POST /auth/register - {"username":"sandeepTiwari","email":"sandeep22@gmail.com","password":"12345","role":"admin"}
+2024-06-02T12:24:54.503Z - POST /auth/register - {"username":"Suraj singh","email":"Suraj@gmail.com","password":"12345"}
+2024-06-02T12:27:37.672Z - GET /auth/login - {"email":"Suraj@gmail.com","password":"12345"}
+2024-06-02T12:28:11.178Z - POST /auth/login - {"email":"Suraj@gmail.com","password":"12345"}
+2024-06-02T12:34:08.709Z - POST /auth/createPost - {"title":"creating a post is fun","content":"i am roaming in france"}
+2024-06-02T12:34:31.097Z - POST /blogs/createPost - {"title":"creating a post is fun","content":"i am roaming in france"}
+2024-06-02T12:34:59.290Z - POST /auth/login - {"email":"Suraj@gmail.com","password":"12345"}
+2024-06-02T12:35:38.354Z - POST /blogs/createPost - {"title":"creating a post is fun","content":"i am roaming in france"}
+2024-06-02T12:49:19.279Z - POST /blogs/createPost - {"title":"creating a post is fun","content":"i am roaming in france"}
+2024-06-02T13:03:23.118Z - POST /blogs/createPost - {"title":"creating a post is fun","content":"i am roaming in france"}
+2024-06-02T13:04:02.502Z - POST /auth/login - {"email":"Suraj@gmail.com","password":"12345"}
+2024-06-02T13:08:44.676Z - POST /blogs/createPost - {"title":"creating a post is fun","content":"i am roaming in france"}
+2024-06-02T14:58:44.642Z - POST /blogs/createPost - {"title":"creating a post is fun","content":"i am roaming in france"}
+2024-06-02T14:58:56.253Z - POST /auth/login - {"email":"Suraj@gmail.com","password":"12345"}
+2024-06-02T14:59:20.461Z - POST /blogs/createPost - {"title":"creating a post is fun","content":"i am roaming in france"}
+2024-06-02T15:10:03.103Z - POST /auth/register - {"username":"admin singh","email":"admin@gmail.com","password":"12345","role":"admin"}
+2024-06-02T15:10:48.476Z - POST /auth/login - {"email":"admin@gmail.com","password":"12345"}
+2024-06-02T15:11:12.394Z - POST /blogs/createPost - {"title":"creating a post is fun","content":"i am roaming in france"}
+2024-06-02T15:12:09.579Z - POST /auth/register - {"username":"author singh","email":"author@gmail.com","password":"12345","role":"author"}
+2024-06-02T15:12:28.784Z - POST /auth/login - {"email":"author@gmail.com","password":"12345"}
+2024-06-02T15:12:48.839Z - POST /blogs/createPost - {"title":"creating a post is fun","content":"i am roaming in france"}
+2024-06-02T16:08:37.401Z - POST /blogs/665c8bfe2b9280a7d8bff036 - {"title":"Updated Blog Title","content":"Updated content for the blog post."}
+2024-06-02T16:09:19.565Z - POST /blogs/updatePost/665c8bfe2b9280a7d8bff036 - {"title":"Updated Blog Title","content":"Updated content for the blog post."}
+2024-06-02T16:09:27.172Z - PUT /blogs/updatePost/665c8bfe2b9280a7d8bff036 - {"title":"Updated Blog Title","content":"Updated content for the blog post."}
+2024-06-02T16:11:07.319Z - PUT /blogs/updatePost/665c8bfe2b9280a7d8bff036 - {"title":"Updated Blog Title","content":"Updated content for the blog post."}
+2024-06-02T16:11:14.605Z - POST /auth/login - {"email":"author@gmail.com","password":"12345"}
+2024-06-02T16:12:37.899Z - PUT /blogs/updatePost/665c8bfe2b9280a7d8bff036 - {"title":"Updated Blog Title","content":"Updated content for the blog post."}
+2024-06-02T16:13:10.520Z - POST /blogs/updatePost/665c8bfe2b9280a7d8bff036 - {"title":"Updated Blog Title","content":"Updated content for the blog post."}
+2024-06-02T16:21:25.618Z - POST /blogs/updatePost/665c8bfe2b9280a7d8bff036 - {"title":"Updated Blog Title","content":"Updated content for the blog post."}
+2024-06-02T16:23:26.936Z - POST /blogs/updatePost/:id=665c8bfe2b9280a7d8bff036 - {"title":"Updated Blog Title","content":"Updated content for the blog post."}
+2024-06-02T16:25:40.812Z - POST /blogs/updatePost/665c8bfe2b9280a7d8bff036 - {"title":"Updated Blog Title","content":"Updated content for the blog post."}
